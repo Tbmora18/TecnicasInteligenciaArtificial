@@ -1,4 +1,4 @@
-Shape,Cut,Color,Clarity,Carat Weight,Length/Width Ratio,Depth %,Table %,Polish,Symmetry,Girdle,Culet,Length,Width,Height,Price,Type,Fluorescence
+Shape,Cut,Color,Clarity,Carat Weight,Length_Width_Ratio,Depth,Table,Polish,Symmetry,Girdle,Culet,Length,Width,Height,Price,Type,Fluorescence
 Cushion Modified,Ideal,F,VVS2,1.84,1.02,65.8,59,Excellent,Very Good,Medium to Thick,None,7.09,6.95,4.57,2640,GIA Lab-Grown,
 Pear,,E,VS1,1.2,1.65,62.5,58,Very Good,Very Good,Medium to Thick,None,9.64,5.86,3.66,1070,GIA Lab-Grown,
 Oval,,E,VS1,1.19,1.41,63.1,63,Very Good,Very Good,Medium to Thick,None,8.44,6,3.79,1070,GIA Lab-Grown,
